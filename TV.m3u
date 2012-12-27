@@ -36,6 +36,12 @@ udp://@233.49.170.142:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/cnbc.png,CNBC
 udp://@233.49.170.143:5000
 
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rt.png,Russia Today HD
+udp://@233.49.170.145:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rtdoc.png,Russia Today Documentary HD
+udp://@233.49.170.146:5000
+
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png,ТТС
 udp://@233.49.170.250:5000
 
