@@ -47,7 +47,7 @@ udp://@233.49.170.145:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/rtdoc.png type=mp2t dlna_extras=mpeg_ts_hd_ac3,Russia Today Documentary HD
 udp://@233.49.170.146:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/1tvhd.png dlna_extras=mpeg_ts_hd_ac3,Первый канал HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/1tvhd.png type=mp2t dlna_extras=mpeg_ts_hd_ac3,Первый канал HD
 udp://@233.49.170.147:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png,ТТС
