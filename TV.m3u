@@ -1,5 +1,7 @@
 #EXTM3U name="Netbynet IPTV" type=mp2t dlna_extras=mpeg_ts_sd
 
+#Плейлист подготовлен: Роман А. aka BasicXP <basicxp (at) basicxp.ru>
+
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/1tv.png,Первый канал
 udp://@233.49.170.10:5000
 
