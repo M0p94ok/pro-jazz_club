@@ -1,4 +1,4 @@
-#EXTM3U name="Netbynet IPTV"
+#EXTM3U name="Netbynet IPTV" type=mp2t dlna_extras=mpeg_ts_sd
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/1tv.png,Первый канал
 udp://@233.49.170.10:5000
@@ -33,19 +33,19 @@ udp://@233.49.170.138:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tnv.png,Татарстан - Новый Век
 udp://@233.49.170.139:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rushd.png,Россия-HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rushd.png dlna_extras=mpeg_ts_hd_mp3,Россия-HD
 udp://@233.49.170.142:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/cnbc.png,CNBC
 udp://@233.49.170.143:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rt.png,Russia Today HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rt.png dlna_extras=mpeg_ts_hd_ac3,Russia Today HD
 udp://@233.49.170.145:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rtdoc.png,Russia Today Documentary HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rtdoc.png dlna_extras=mpeg_ts_hd_ac3,Russia Today Documentary HD
 udp://@233.49.170.146:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/1tvhd.png,Первый канал HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/1tvhd.png dlna_extras=mpeg_ts_hd_ac3,Первый канал HD
 udp://@233.49.170.147:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png,ТТС
