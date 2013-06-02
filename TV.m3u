@@ -53,6 +53,9 @@ udp://@233.49.170.147:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/mir24.png,МИР 24
 udp://@233.49.170.150:5000
 
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/otr.png,ОТР
+udp://@233.49.170.152:5000
+
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png,ТТС
 udp://@233.49.170.250:5000
 
