@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U name="Netbynet IP Radio" type=mp3 dlna_extras=mp3
 
 #EXTINF:-1,Love Radio
 udp://@233.49.170.224:1234
