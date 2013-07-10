@@ -2,65 +2,65 @@
 
 #Плейлист подготовлен: Роман А. aka BasicXP <basicxp (at) basicxp.ru>
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/1tv.png,Первый канал
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/1tv.png ,Первый канал
 udp://@233.49.170.10:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/5piter.png,5 канал Петербург
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/5piter.png ,5 канал Петербург
 udp://@233.49.170.51:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/karousel.png,Карусель
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/karousel.png ,Карусель
 udp://@233.49.170.68:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/ntv.png,НТВ
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/ntv.png ,НТВ
 udp://@233.49.170.71:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rus2.png,Россия-2
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rus2.png ,Россия-2
 udp://@233.49.170.79:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rusk.png,Россия-К
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rusk.png ,Россия-К
 udp://@233.49.170.80:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rus1.png,Россия-1
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rus1.png ,Россия-1
 udp://@233.49.170.84:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rus24.png,Россия-24
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rus24.png ,Россия-24
 udp://@233.49.170.95:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/tvc.png,ТВ Центр
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/tvc.png ,ТВ Центр
 udp://@233.49.170.97:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/spas.png,Спас
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/spas.png ,Спас
 udp://@233.49.170.138:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/tnv.png,Татарстан - Новый Век
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/tnv.png ,Татарстан — Новый Век
 udp://@233.49.170.139:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rushd.png type=mp2t dlna_extras=mpeg_ts_hd_mp3,Россия-HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rushd.png type=mp2t dlna_extras=mpeg_ts_hd_mp3 ,Россия-HD
 udp://@233.49.170.142:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/cnbc.png,CNBC
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/cnbc.png ,CNBC
 udp://@233.49.170.143:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rt.png type=mp2t dlna_extras=mpeg_ts_hd_ac3,Russia Today HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rt.png type=mp2t dlna_extras=mpeg_ts_hd_ac3 ,Russia Today HD
 udp://@233.49.170.145:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/rtdoc.png type=mp2t dlna_extras=mpeg_ts_hd_ac3,Russia Today Documentary HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rtdoc.png type=mp2t dlna_extras=mpeg_ts_hd_ac3 ,Russia Today Documentary HD
 udp://@233.49.170.146:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/1tvhd.png type=mp2t dlna_extras=mpeg_ts_hd_ac3,Первый канал HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/1tvhd.png type=mp2t dlna_extras=mpeg_ts_hd_ac3 ,Первый канал HD
 udp://@233.49.170.147:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/mir24.png,МИР 24
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/mir24.png ,МИР 24
 udp://@233.49.170.150:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/otr.png,ОТР
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/otr.png ,ОТР
 udp://@233.49.170.152:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/tv5monde.png,TV5 Monde Europe
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/tv5monde.png ,TV5 Monde Europe
 udp://@233.49.170.247:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png,ТТС
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png ,ТТС
 udp://@233.49.170.250:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/domatv.png,Домашний магазин
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/domatv.png ,Домашний магазин
 udp://@233.49.170.251:5000
