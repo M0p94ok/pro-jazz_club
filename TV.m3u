@@ -5,6 +5,9 @@
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/1tv.png ,Первый канал
 udp://@233.49.170.10:5000
 
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/tnt.png ,ТНТ
+udp://@233.49.170.37:5000
+
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/5piter.png ,5 канал Петербург
 udp://@233.49.170.51:5000
 
@@ -55,6 +58,21 @@ udp://@233.49.170.150:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/otr.png ,ОТР
 udp://@233.49.170.152:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/sovsek.png ,Совершенно Секретно
+udp://@233.49.170.153:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/matiditya.png ,Мать и Дитя
+udp://@233.49.170.156:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/orujie.png ,Оружие
+udp://@233.49.170.158:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/nano.png ,Nano TV
+udp://@233.49.170.159:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/ocean.png ,Ocean TV
+udp://@233.49.170.162:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tv5monde.png ,TV5 Monde Europe
 udp://@233.49.170.247:5000
