@@ -66,7 +66,7 @@ udp://@233.49.170.153:5000
 udp://@233.49.170.156:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/orujie.png ,Оружие
-udp://@233.49.170.158:5000
+udp://@233.49.170.160:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/nano.png ,Nano TV
 udp://@233.49.170.159:5000
