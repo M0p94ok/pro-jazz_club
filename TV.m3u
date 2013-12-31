@@ -5,6 +5,9 @@
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/1tv.png ,Первый канал
 udp://@233.49.170.10:5000
 
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/disney.png ,Disney Channel
+udp://@233.49.180.14:5000
+
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tnt.png ,ТНТ
 udp://@233.49.170.37:5000
 
@@ -80,11 +83,14 @@ udp://@233.49.170.162:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/mtv.png ,MTV
 udp://@233.49.170.163:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/auto24.png ,АВТО24
-udp://@233.49.170.164:5000
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/tnvplanet.png ,Татарстан — Новый век Планета
+udp://@233.49.170.165:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/tv5monde.png ,TV5 Monde Europe
-udp://@233.49.170.247:5000
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/maidan.png ,Maidan
+udp://@233.49.170.166:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/belarus24.png ,Беларусь 24
+udp://@233.49.170.168:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png ,ТТС
 udp://@233.49.170.250:5000
