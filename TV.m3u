@@ -6,7 +6,7 @@
 udp://@233.49.170.10:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/disney.png ,Disney Channel
-udp://@233.49.180.14:5000
+udp://@233.49.170.14:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tnt.png ,ТНТ
 udp://@233.49.170.37:5000
