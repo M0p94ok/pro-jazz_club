@@ -8,6 +8,9 @@ udp://@233.49.170.10:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/radostmoya.png ,Радость Моя
 udp://@233.49.170.24:5000
 
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/sport1.png type=mp2t dlna_extras=mpeg_ts_hd_mp3 ,Спорт 1 HD
+udp://@233.49.170.28:5000
+
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tnt.png ,ТНТ
 udp://@233.49.170.37:5000
 
@@ -88,6 +91,9 @@ udp://@233.49.170.165:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/maidan.png ,Maidan
 udp://@233.49.170.166:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/interplus.png ,IНТЕР+
+udp://@233.49.170.167:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/belarus24.png ,Беларусь 24
 udp://@233.49.170.168:5000
