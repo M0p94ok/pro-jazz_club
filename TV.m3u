@@ -8,9 +8,6 @@ udp://@233.49.170.10:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/radostmoya.png ,Радость Моя
 udp://@233.49.170.24:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/sport1.png type=mp2t dlna_extras=mpeg_ts_hd_mp3 ,Спорт 1 HD
-udp://@233.49.170.28:5000
-
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tnt.png ,ТНТ
 udp://@233.49.170.37:5000
 
@@ -38,8 +35,14 @@ udp://@233.49.170.95:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tvc.png ,ТВ Центр
 udp://@233.49.170.97:5000
 
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/set.png ,Sony Entertainment
+udp://@233.49.170.101:5000
+
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/rutv.png ,RU TV
 udp://@233.49.170.114:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/nickjr.png ,Nick Jr.
+udp://@233.49.170.135:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/spas.png ,Спас
 udp://@233.49.170.138:5000
@@ -68,23 +71,20 @@ udp://@233.49.170.150:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/otr.png ,ОТР
 udp://@233.49.170.152:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/sovsek.png ,Совершенно Секретно
-udp://@233.49.170.153:5000
+##EXTINF:0 logo=http://basicxp.ru/tv_logos/sovsek.png ,Совершенно Секретно
+#udp://@233.49.170.153:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/matiditya.png ,Мать и Дитя
 udp://@233.49.170.156:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/nano.png ,Nano TV
-udp://@233.49.170.159:5000
+##EXTINF:0 logo=http://basicxp.ru/tv_logos/nano.png ,Nano TV
+#udp://@233.49.170.159:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/orujie.png ,Оружие
 udp://@233.49.170.160:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/ocean.png ,Ocean TV
-udp://@233.49.170.162:5000
-
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/mtv.png ,MTV
-udp://@233.49.170.163:5000
+##EXTINF:0 logo=http://basicxp.ru/tv_logos/ocean.png ,Ocean TV
+#udp://@233.49.170.162:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tnvplanet.png ,Татарстан — Новый век Планета
 udp://@233.49.170.165:5000
