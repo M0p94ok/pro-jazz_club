@@ -8,8 +8,8 @@ udp://@233.49.170.10:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/radostmoya.png" tvg-name="Радость_Моя",Радость Моя
 udp://@233.49.170.24:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/tnt.png" tvg-name="ТНТ",ТНТ
-udp://@233.49.170.37:5000
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/ntvsportplus.png",НТВ+ Спорт Плюс
+udp://@233.49.170.30:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/vh1classic.png" tvg-name="VH1_Classic",VH1 Classic
 udp://@233.49.170.46:5000
@@ -38,14 +38,8 @@ udp://@233.49.170.95:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tvc.png" tvg-name="ТВЦ",ТВ Центр
 udp://@233.49.170.97:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/set.png" dlna_extras=mpeg_ts_hd tvg-name="SONY_ТВ",SET HD
-udp://@233.49.170.101:5000
-
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/rutv.png" tvg-name="RU_TV",RU TV
 udp://@233.49.170.114:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/nickjr.png" tvg-name="Nick_Jr",Nick Jr.
-udp://@233.49.170.135:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/spas.png" tvg-name="Спас_ТВ",Спас
 udp://@233.49.170.138:5000
@@ -80,8 +74,14 @@ udp://@233.49.170.153:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/matiditya.png" tvg-name="Мать_и_Дитя",Мать и Дитя
 udp://@233.49.170.156:5000
 
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/nano.png" tvg-name="Nano_TV",Нано ТВ
+udp://@233.49.170.159:5000
+
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/orujie.png" tvg-name="Оружие",Оружие
 udp://@233.49.170.160:5000
+
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/ocean.png" tvg-name="Ocean-TV",Ocean TV
+udp://@233.49.170.162:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/mtv.png" tvg-name="MTV_Music",MTV
 udp://@233.49.170.163:5000
