@@ -41,6 +41,9 @@ udp://@233.49.170.97:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/rutv.png" tvg-name="RU_TV",RU TV
 udp://@233.49.170.114:5000
 
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/traveladventure.png" tvg-name="Travel_Adventure_HD",Travel+Adventure HD
+udp://@233.49.170.125:5000
+
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/spas.png" tvg-name="Спас_ТВ",Спас
 udp://@233.49.170.138:5000
 
