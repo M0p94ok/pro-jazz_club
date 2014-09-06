@@ -8,7 +8,7 @@ udp://@233.49.170.10:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/radostmoya.png" tvg-name="Радость_Моя",Радость Моя
 udp://@233.49.170.24:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/ntvsportplus.png",НТВ+ Спорт Плюс
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/ntvsportplus.png" tvg-name="Спорт_ПЛЮС",НТВ+ Спорт Плюс
 udp://@233.49.170.30:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/vh1classic.png" tvg-name="VH1_Classic",VH1 Classic
@@ -104,10 +104,10 @@ udp://@233.49.170.166:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/interplus.png" tvg-name="Интер_",IНТЕР+
 udp://@233.49.170.167:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/belarus24.png",Беларусь 24
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/belarus24.png" tvg-name="Беларусь_24",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/lifenews.png",LIFENEWS
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/lifenews.png" tvg-name="Lifenews",LIFENEWS
 udp://@233.49.170.178:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/dangetv.png" tvg-name="DANGE_TV",Dange TV
@@ -119,5 +119,5 @@ udp://@233.49.170.180:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tts.png",ТТС
 udp://@233.49.170.250:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/domatv.png",Домашний магазин
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/domatv.png" tvg-name="Домашний_магазин",Домашний магазин
 udp://@233.49.170.251:5000
