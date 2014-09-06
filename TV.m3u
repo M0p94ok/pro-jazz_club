@@ -32,11 +32,17 @@ udp://@233.49.170.80:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/rus1.png" tvg-name="Россия_1",Россия 1
 udp://@233.49.170.84:5000
 
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/natgeo.png" tvg-name="National_Geographic",National Geographic Channel
+udp://@233.49.170.87:5000
+
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/rus24.png" tvg-name="Россия_24",Россия 24
 udp://@233.49.170.95:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tvc.png" tvg-name="ТВЦ",ТВ Центр
 udp://@233.49.170.97:5000
+
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/boomerang.png" tvg-name="Boomerang",Boomerang
+udp://@233.49.170.98:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/rutv.png" tvg-name="RU_TV",RU TV
 udp://@233.49.170.114:5000
@@ -101,9 +107,6 @@ udp://@233.49.170.167:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/belarus24.png",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/lifenews.png" dlna_extras=mpeg_ts_hd,LIFENEWS HD
-udp://@233.49.170.177:5000
-
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/lifenews.png",LIFENEWS
 udp://@233.49.170.178:5000
 
@@ -112,9 +115,6 @@ udp://@233.49.170.179:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/edahd.png" dlna_extras=mpeg_ts_hd tvg-name="ЕДА_HD",Еда HD
 udp://@233.49.170.180:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/nbnpromo.png",NETBYNET Промо
-udp://@233.49.170.213:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tts.png",ТТС
 udp://@233.49.170.250:5000
