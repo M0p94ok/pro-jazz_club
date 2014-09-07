@@ -95,7 +95,7 @@ udp://@233.49.170.162:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/mtv.png" tvg-name="MTV_Music",MTV
 udp://@233.49.170.163:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/tnvplanet.png" tvg-name="ТНВ-планета",Татарстан — Новый век Планета
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/tnvplanet.png" tvg-name="ТНВ-планета",Татарстан — Новый Век Планета
 udp://@233.49.170.165:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/maidan.png",Maidan
