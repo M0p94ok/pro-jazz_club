@@ -5,15 +5,6 @@
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/1tv.png" tvg-name="Первый_канал",Первый канал
 udp://@233.49.170.10:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/radostmoya.png" tvg-name="Радость_Моя",Радость Моя
-udp://@233.49.170.24:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/ntvsportplus.png" tvg-name="Спорт_ПЛЮС",НТВ+ Спорт Плюс
-udp://@233.49.170.30:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/vh1classic.png" tvg-name="VH1_Classic",VH1 Classic
-udp://@233.49.170.46:5000
-
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/5piter.png" tvg-name="Пятый_Канал",Пятый канал
 udp://@233.49.170.51:5000
 
@@ -32,23 +23,11 @@ udp://@233.49.170.80:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/rus1.png" tvg-name="Россия_1",Россия 1
 udp://@233.49.170.84:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/natgeo.png" tvg-name="National_Geographic",National Geographic Channel
-udp://@233.49.170.87:5000
-
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/rus24.png" tvg-name="Россия_24",Россия 24
 udp://@233.49.170.95:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tvc.png" tvg-name="ТВЦ",ТВ Центр
 udp://@233.49.170.97:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/boomerang.png" tvg-name="Boomerang",Boomerang
-udp://@233.49.170.98:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/rutv.png" tvg-name="RU_TV",RU TV
-udp://@233.49.170.114:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/traveladventure.png" tvg-name="Travel_Adventure_HD",Travel+Adventure HD
-udp://@233.49.170.125:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/spas.png" tvg-name="Спас_ТВ",Спас
 udp://@233.49.170.138:5000
@@ -77,44 +56,17 @@ udp://@233.49.170.150:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/otr.png" tvg-name="ОТР",ОТР
 udp://@233.49.170.152:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/sovsek.png" tvg-name="Совершенно_Секретно",Совершенно Секретно
-udp://@233.49.170.153:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/matiditya.png" tvg-name="Мать_и_Дитя",Мать и Дитя
-udp://@233.49.170.156:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/nano.png" tvg-name="Nano_TV",Нано ТВ
-udp://@233.49.170.159:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/orujie.png" tvg-name="Оружие",Оружие
-udp://@233.49.170.160:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/ocean.png" tvg-name="Ocean-TV",Ocean TV
-udp://@233.49.170.162:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/mtv.png" tvg-name="MTV_Music",MTV
-udp://@233.49.170.163:5000
-
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tnvplanet.png" tvg-name="ТНВ-планета",Татарстан — Новый Век Планета
 udp://@233.49.170.165:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/maidan.png",Maidan
 udp://@233.49.170.166:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/interplus.png" tvg-name="Интер_",IНТЕР+
-udp://@233.49.170.167:5000
-
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/belarus24.png" tvg-name="Беларусь_24",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/lifenews.png" tvg-name="Lifenews",LIFENEWS
-udp://@233.49.170.178:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/dangetv.png" tvg-name="DANGE_TV",Dange TV
-udp://@233.49.170.179:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/edahd.png" dlna_extras=mpeg_ts_hd tvg-name="ЕДА_HD",Еда HD
-udp://@233.49.170.180:5000
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/probusiness.png" tvg-name="ЕДА_HD",Про Бизнес
+udp://@233.49.170.182:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tts.png",ТТС
 udp://@233.49.170.250:5000
