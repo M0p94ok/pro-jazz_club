@@ -65,9 +65,6 @@ udp://@233.49.170.166:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/belarus24.png" tvg-name="Беларусь_24",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/probusiness.png" tvg-name="ЕДА_HD",Про Бизнес
-udp://@233.49.170.182:5000
-
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tts.png",ТТС
 udp://@233.49.170.250:5000
 
