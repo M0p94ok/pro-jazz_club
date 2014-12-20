@@ -29,6 +29,9 @@ udp://@233.49.170.95:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tvc.png" tvg-name="ТВЦ",ТВ Центр
 udp://@233.49.170.97:5000
 
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/myzentv.png",myZen.tv
+udp://@233.49.170.124:5000
+
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/spas.png" tvg-name="Спас_ТВ",Спас
 udp://@233.49.170.138:5000
 
@@ -59,13 +62,16 @@ udp://@233.49.170.152:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tnvplanet.png" tvg-name="ТНВ-планета",Татарстан — Новый Век Планета
 udp://@233.49.170.165:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/maidan.png",Maidan
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/maidan.png" tvg-name="Майдан",Maidan
 udp://@233.49.170.166:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/belarus24.png" tvg-name="Беларусь_24",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/tts.png",ТТС
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/tvsale.png" tvg-name="TV_Sale",TV Sale
+udp://@233.49.170.185:5000
+
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/tts.png" tvg-name="TTC",ТТС
 udp://@233.49.170.250:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/domatv.png" tvg-name="Домашний_магазин",Домашний магазин
