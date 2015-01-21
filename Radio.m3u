@@ -10,3 +10,9 @@ udp://@233.49.170.221:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/radiorus.png" ,Радио России
 udp://@233.49.170.222:5000
+
+#EXTINF:0 ,NRJ
+udp://@233.49.170.235:1234
+
+#EXTINF:0 ,Радио Рекорд
+udp://@233.49.170.242:1234
