@@ -5,9 +5,6 @@
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/1tv.png" tvg-name="Первый_канал",Первый канал
 udp://@233.49.170.10:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/tnt.png" tvg-name="ТНТ",ТНТ
-udp://@233.49.170.37:5000
-
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/5piter.png" tvg-name="Пятый_Канал",Пятый канал
 udp://@233.49.170.51:5000
 
@@ -71,14 +68,11 @@ udp://@233.49.170.166:5000
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/belarus24.png" tvg-name="Беларусь_24",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/stslove.png" tvg-name="СТС_Love",СТС Love
-udp://@233.49.170.181:5000
+#EXTINF:0 logo="http://basicxp.ru/tv_logos/aniplnhd.png" tvg-name="Animal_Planet_HD",Animal Planet HD
+udp://@233.49.170.175:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tvsale.png" tvg-name="TV_Sale",TV Sale
 udp://@233.49.170.185:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/1hd.png" tvg-name="1HD",1HD
-udp://@233.49.170.188:5000
 
 #EXTINF:0 logo="http://basicxp.ru/tv_logos/tts.png" tvg-name="TTC",ТТС
 udp://@233.49.170.250:5000
