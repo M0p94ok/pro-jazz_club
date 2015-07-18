@@ -1,81 +1,82 @@
-#EXTM3U name="Цифровое ТВ Netbynet" type=mp2t dlna_extras=mpeg_ts_sd logo="http://basicxp.ru/tv_logos/nbn.png" url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#EXTM3U name="Цифровое ТВ Netbynet" type=mp2t dlna_extras=mpeg_ts_sd url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 
 # Плейлист подготовлен: ForstWoof <iptv@forstwoof.ru>
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/1tv.png" tvg-name="Первый_канал",Первый канал
+# Информация для Kodi/XBMC:
+#   Базовый URL для логотипов: http://forstwoof.ru/tv_logos/
+#   URL телепрограммы: http://www.teleguide.info/download/new3/xmltv.xml.gz
+
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/1tv.png" tvg-id="1" tvg-name="Первый_канал" tvg-logo="1tv.png",Первый канал
 udp://@233.49.170.10:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/5piter.png" tvg-name="Пятый_Канал",Пятый канал
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/5piter.png" tvg-id="255" tvg-name="Пятый_Канал" tvg-logo="5piter.png",Пятый Канал
 udp://@233.49.170.51:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/karousel.png" tvg-name="Карусель",Карусель
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/karousel.png" tvg-id="300007" tvg-name="Карусель" tvg-logo="karousel.png",Карусель
 udp://@233.49.170.68:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/ntv.png" tvg-name="НТВ",НТВ
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/ntv.png" tvg-id="4" tvg-name="НТВ" tvg-logo="ntv.png",НТВ
 udp://@233.49.170.71:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/rus2.png" tvg-name="Россия_2_(Спорт)",Россия 2
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rus2.png" tvg-id="235" tvg-name="Россия_2_(Спорт)" tvg-logo="rus2.png",Россия 2
 udp://@233.49.170.79:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/rusk.png" tvg-name="Россия_Культура",Россия К
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rusk.png" tvg-id="5" tvg-name="Россия_Культура" tvg-logo="rusk.png",Россия К
 udp://@233.49.170.80:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/rus1.png" tvg-name="Россия_1",Россия 1
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rus1.png" tvg-id="2" tvg-name="Россия_1" tvg-logo="rus1.png",Россия 1
 udp://@233.49.170.84:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/rus24.png" tvg-name="Россия_24",Россия 24
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rus24.png" tvg-id="676" tvg-name="Россия_24" tvg-logo="rus24.png",Россия 24
 udp://@233.49.170.95:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/tvc.png" tvg-name="ТВЦ",ТВ Центр
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tvc.png" tvg-id="3" tvg-name="ТВЦ" tvg-logo="tvc.png",ТВ Центр
 udp://@233.49.170.97:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/myzentv.png",myZen.tv
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/myzentv.png" dlna_extras=mpeg_ts_hd tvg-id="300034" tvg-name="Melody_Zen_TV" tvg-logo="myzentv.png",myZen tv HD
 udp://@233.49.170.124:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/spas.png" tvg-name="Спас_ТВ",Спас
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/spas.png" tvg-id="222" tvg-name="Спас_ТВ" tvg-logo="spas.png",Спас
 udp://@233.49.170.138:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/tnv.png" tvg-name="Татарстан_-_Новый_Век",Татарстан — Новый Век
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tnv.png" tvg-id="563" tvg-name="Татарстан_-_Новый_Век" tvg-logo="tnv.png",Татарстан — Новый Век
 udp://@233.49.170.139:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/rushd.png" dlna_extras=mpeg_ts_hd tvg-name="Россия_HD",Россия HD
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rushd.png" dlna_extras=mpeg_ts_hd tvg-id="300124" tvg-name="Россия_HD" tvg-logo="rushd.png",Россия HD
 udp://@233.49.170.142:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/cnbc.png" tvg-name="CNBC",CNBC
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/cnbc.png" tvg-id="280" tvg-name="CNBC" tvg-logo="cnbc.png",CNBC
 udp://@233.49.170.143:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/rt.png" dlna_extras=mpeg_ts_hd tvg-name="Russia_Today",Russia Today HD
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rt.png" tvg-id="100036" dlna_extras=mpeg_ts_hd tvg-name="Russia_Today" tvg-logo="rt.png",Russia Today HD
 udp://@233.49.170.145:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/rtdoc.png" dlna_extras=mpeg_ts_hd tvg-name="Russia_Today_Doc_(RT_Doc)",Russia Today Documentary HD
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rtdoc.png" dlna_extras=mpeg_ts_hd tvg-id="1658" tvg-name="Russia_Today_Doc_(RT_Doc)" tvg-logo="rtdoc.png",Russia Today Documentary HD
 udp://@233.49.170.146:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/1tvhd.png" dlna_extras=mpeg_ts_hd tvg-name="Первый_HD",Первый канал HD
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/1tvhd.png" dlna_extras=mpeg_ts_hd tvg-id="300125" tvg-name="Первый_HD" tvg-logo="1tvhd.png",Первый канал HD
 udp://@233.49.170.147:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/mir24.png" tvg-name="МИР_24",МИР 24
-udp://@233.49.170.150:5000
-
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/otr.png" tvg-name="ОТР",ОТР
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/otr.png" tvg-id="1000" tvg-name="ОТР" tvg-logo="otr.png",ОТР
 udp://@233.49.170.152:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/tnvplanet.png" tvg-name="ТНВ-планета",Татарстан — Новый Век Планета
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tnvplanet.png" tvg-id="1429" tvg-name="ТНВ-планета" tvg-logo="tnvplanet.png",Татарстан — Новый Век Планета
 udp://@233.49.170.165:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/maidan.png" tvg-name="Майдан",Maidan
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/maidan.png" tvg-id="1667" tvg-name="Майдан" tvg-logo="maidan.png",Maidan
 udp://@233.49.170.166:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/belarus24.png" tvg-name="Беларусь_24",Беларусь 24
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/belarus24.png" tvg-id="300003" tvg-name="Беларусь_24" tvg-logo="belarus24.png",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/aniplnhd.png" tvg-name="Animal_Planet_HD",Animal Planet HD
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/aniplnhd.png" dlna_extras=mpeg_ts_hd tvg-id="300107" tvg-name="Animal_Planet_HD" tvg-logo="aniplnhd.png",Animal Planet HD
 udp://@233.49.170.175:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/tvsale.png" tvg-name="TV_Sale",TV Sale
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tvsale.png" tvg-id="1382" tvg-name="TV_Sale" tvg-logo="tvsale.png",TV Sale
 udp://@233.49.170.185:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/tts.png" tvg-name="TTC",ТТС
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tts.png" tvg-id="1441" tvg-name="TTC" tvg-logo="tts.png",ТТС
 udp://@233.49.170.250:5000
 
-#EXTINF:0 logo="http://basicxp.ru/tv_logos/domatv.png" tvg-name="Домашний_магазин",Домашний магазин
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/domatv.png" tvg-id="1507" tvg-name="Домашний_магазин" tvg-logo="domatv.png",Домашний магазин
 udp://@233.49.170.251:5000
