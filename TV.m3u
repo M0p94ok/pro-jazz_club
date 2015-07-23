@@ -40,7 +40,7 @@ udp://@233.49.170.95:5000
 #EXTINF:0 logo="http://forstwoof.ru/tv_logos/tvc.png" tvg-id="3" tvg-name="ТВЦ" tvg-logo="tvc.png",ТВ Центр
 udp://@233.49.170.97:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/mezzolivehd.png" dlna_extras="mpeg_ts_hd" tvg-id="100060" tvg-name="Mezzo_Live_HD" tvg-logo="mezzo.png",Mezzo Live HD
+#EXTINF:0 logo="http://forstwoof.ru/tv_logos/mezzolivehd.png" dlna_extras="mpeg_ts_hd" tvg-id="100060" tvg-name="Mezzo_Live_HD" tvg-logo="mezzolivehd.png",Mezzo Live HD
 udp://@233.49.170.118:5000
 
 #EXTINF:0 logo="http://forstwoof.ru/tv_logos/foxhd.png" dlna_extras="mpeg_ts_hd" tvg-id="300127" tvg-name="Fox_HD" tvg-logo="foxhd.png",Fox HD
