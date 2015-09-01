@@ -4,98 +4,113 @@
 
 # Информация для Kodi/XBMC:
 #   URL плейлиста: https://raw.githubusercontent.com/Forst/iptv/master/TV.m3u
-#   Базовый URL для логотипов: http://forstwoof.ru/tv_logos/
+#   Базовый URL для логотипов: http://beaver.lan.forstwoof.ru/tv_logos/
 #   URL телепрограммы: http://www.teleguide.info/download/new3/xmltv.xml.gz
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/1tv.png" tvg-id="1" tvg-name="Первый_канал" tvg-logo="1tv.png",Первый канал
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/1tv.png" tvg-id="1" tvg-name="Первый_канал" tvg-logo="1tv.png",Первый канал
 udp://@233.49.170.10:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/doverie.png" tvg-id="300066" tvg-name="Москва_Доверие" tvg-logo="doverie.png",Москва Доверие
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/doverie.png" tvg-id="300066" tvg-name="Москва_Доверие" tvg-logo="doverie.png",Москва Доверие
 udp://@233.49.170.13:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tnt.png" tvg-id="101" tvg-name="ТНТ" tvg-logo="tnt.png",ТНТ
-udp://@233.49.170.29:5000
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tnt.png" tvg-id="101" tvg-name="ТНТ" tvg-logo="tnt.png",ТНТ
+udp://@233.49.170.37:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/5piter.png" tvg-id="255" tvg-name="Пятый_Канал" tvg-logo="5piter.png",Пятый Канал
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rusextreme.png" tvg-id="540" tvg-name="Русский_Экстрим" tvg-logo="rusextreme.png",Русский Экстрим
+udp://@233.49.170.38:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/5piter.png" tvg-id="255" tvg-name="Пятый_Канал" tvg-logo="5piter.png",Пятый Канал
 udp://@233.49.170.51:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/karousel.png" tvg-id="300007" tvg-name="Карусель" tvg-logo="karousel.png",Карусель
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/karousel.png" tvg-id="300007" tvg-name="Карусель" tvg-logo="karousel.png",Карусель
 udp://@233.49.170.68:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/ntv.png" tvg-id="4" tvg-name="НТВ" tvg-logo="ntv.png",НТВ
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/usadba.png" tvg-id="432" tvg-name="Усадьба" tvg-logo="usadba.png",Усадьба
+udp://@233.49.170.70:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/ntv.png" tvg-id="4" tvg-name="НТВ" tvg-logo="ntv.png",НТВ
 udp://@233.49.170.71:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rus2.png" tvg-id="235" tvg-name="Россия_2_(Спорт)" tvg-logo="rus2.png",Россия 2
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rus2.png" tvg-id="235" tvg-name="Россия_2_(Спорт)" tvg-logo="rus2.png",Россия 2
 udp://@233.49.170.79:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rusk.png" tvg-id="5" tvg-name="Россия_Культура" tvg-logo="rusk.png",Россия К
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rusk.png" tvg-id="5" tvg-name="Россия_Культура" tvg-logo="rusk.png",Россия К
 udp://@233.49.170.80:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rus1.png" tvg-id="2" tvg-name="Россия_1" tvg-logo="rus1.png",Россия 1
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rus1.png" tvg-id="2" tvg-name="Россия_1" tvg-logo="rus1.png",Россия 1
 udp://@233.49.170.84:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rus24.png" aspect-ratio="16:9" tvg-id="676" tvg-name="Россия_24" tvg-logo="rus24.png",Россия 24
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/natgeo.png" tvg-id="284" tvg-name="National_Geographic" tvg-logo="natgeo.png",National Geographic
+udp://@233.49.170.87:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rus24.png" aspect-ratio="16:9" tvg-id="676" tvg-name="Россия_24" tvg-logo="rus24.png",Россия 24
 udp://@233.49.170.95:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tvc.png" tvg-id="3" tvg-name="ТВЦ" tvg-logo="tvc.png",ТВ Центр
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tvc.png" tvg-id="3" tvg-name="ТВЦ" tvg-logo="tvc.png",ТВ Центр
 udp://@233.49.170.97:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/mezzolivehd.png" dlna_extras="mpeg_ts_hd" tvg-id="100060" tvg-name="Mezzo_Live_HD" tvg-logo="mezzolivehd.png",Mezzo Live HD
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rentv.png" tvg-id="103" tvg-name="РЕН_ТВ" tvg-logo="rentv.png",РЕН-ТВ
+udp://@233.49.170.108:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/mezzolivehd.png" dlna_extras="mpeg_ts_hd" tvg-id="100060" tvg-name="Mezzo_Live_HD" tvg-logo="mezzolivehd.png",Mezzo Live HD
 udp://@233.49.170.118:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/foxhd.png" dlna_extras="mpeg_ts_hd" tvg-id="300127" tvg-name="Fox_HD" tvg-logo="foxhd.png",Fox HD
-udp://@233.49.170.130:5000
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/brazzers.png" tvg-id="1006" tvg-name="Brazzers_TV_Europe" tvg-logo="brazzers.png",Brazzers TV Europe
+udp://@233.49.170.122:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/khl.png" dlna_extras="mpeg_ts_hd" tvg-id="1590" tvg-name="КХЛ_HD" tvg-logo="khl.png",КХЛ HD
-udp://@233.49.170.136:5000
-
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/spas.png" tvg-id="222" tvg-name="Спас_ТВ" tvg-logo="spas.png",Спас
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/spas.png" tvg-id="222" tvg-name="Спас_ТВ" tvg-logo="spas.png",Спас
 udp://@233.49.170.138:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tnv.png" tvg-id="563" tvg-name="Татарстан_-_Новый_Век" tvg-logo="tnv.png",Татарстан — Новый Век
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tnv.png" tvg-id="563" tvg-name="Татарстан_-_Новый_Век" tvg-logo="tnv.png",Татарстан — Новый Век
 udp://@233.49.170.139:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rushd.png" dlna_extras="mpeg_ts_hd" tvg-id="300124" tvg-name="Россия_HD" tvg-logo="rushd.png",Россия HD
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rushd.png" dlna_extras="mpeg_ts_hd" tvg-id="300124" tvg-name="Россия_HD" tvg-logo="rushd.png",Россия HD
 udp://@233.49.170.142:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/cnbc.png" tvg-id="280" tvg-name="CNBC" tvg-logo="cnbc.png",CNBC
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/cnbc.png" tvg-id="280" tvg-name="CNBC" tvg-logo="cnbc.png",CNBC
 udp://@233.49.170.143:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rt.png" tvg-id="100036" dlna_extras="mpeg_ts_hd" tvg-name="Russia_Today" tvg-logo="rt.png",Russia Today HD
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rt.png" tvg-id="100036" dlna_extras="mpeg_ts_hd" tvg-name="Russia_Today" tvg-logo="rt.png",Russia Today HD
 udp://@233.49.170.145:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/rtdoc.png" dlna_extras="mpeg_ts_hd" tvg-id="1658" tvg-name="Russia_Today_Doc_(RT_Doc)" tvg-logo="rtdoc.png",Russia Today Documentary HD
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rtdoc.png" dlna_extras="mpeg_ts_hd" tvg-id="1658" tvg-name="Russia_Today_Doc_(RT_Doc)" tvg-logo="rtdoc.png",Russia Today Documentary HD
 udp://@233.49.170.146:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/1tvhd.png" dlna_extras="mpeg_ts_hd" tvg-id="300125" tvg-name="Первый_HD" tvg-logo="1tvhd.png",Первый канал HD
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/1tvhd.png" dlna_extras="mpeg_ts_hd" tvg-id="300125" tvg-name="Первый_HD" tvg-logo="1tvhd.png",Первый канал HD
 udp://@233.49.170.147:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/otr.png" tvg-id="1000" tvg-name="ОТР" tvg-logo="otr.png",ОТР
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/sts.png" tvg-id="104" tvg-name="СТС" tvg-logo="sts.png",СТС
+udp://@233.49.170.149:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/otr.png" tvg-id="1000" tvg-name="ОТР" tvg-logo="otr.png",ОТР
 udp://@233.49.170.152:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tnvplanet.png" tvg-id="1429" tvg-name="ТНВ-планета" tvg-logo="tnvplanet.png",Татарстан — Новый Век Планета
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tnvplanet.png" tvg-id="1429" tvg-name="ТНВ-планета" tvg-logo="tnvplanet.png",Татарстан — Новый Век Планета
 udp://@233.49.170.165:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/maidan.png" aspect-ratio="4:3" tvg-id="1667" tvg-name="Майдан" tvg-logo="maidan.png",Maidan
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/maidan.png" aspect-ratio="4:3" tvg-id="1667" tvg-name="Майдан" tvg-logo="maidan.png",Maidan
 udp://@233.49.170.166:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/belarus24.png" tvg-id="300003" tvg-name="Беларусь_24" tvg-logo="belarus24.png",Беларусь 24
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/belarus24.png" tvg-id="300003" tvg-name="Беларусь_24" tvg-logo="belarus24.png",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/dsciencehd.png" dlna_extras="mpeg_ts_hd" tvg-id="224" tvg-name="Discovery_Science" tvg-logo="dsciencehd.png",Discovery Science HD
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/dsciencehd.png" dlna_extras="mpeg_ts_hd" tvg-id="224" tvg-name="Discovery_Science" tvg-logo="dsciencehd.png",Discovery Science HD
 udp://@233.49.170.174:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/tvsale.png" tvg-id="1382" tvg-name="TV_Sale" tvg-logo="tvsale.png",TV Sale
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tvsale.png" tvg-id="1382" tvg-name="TV_Sale" tvg-logo="tvsale.png",TV Sale
 udp://@233.49.170.185:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/idxtra.png" tvg-id="1809" tvg-name="ID_Xtra" tvg-logo="idxtra.png",ID Xtra
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/perets.png" tvg-id="109" tvg-name="Перец" tvg-logo="perets.png",Перец
+udp://@233.49.170.188:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/idxtra.png" tvg-id="1809" tvg-name="ID_Xtra" tvg-logo="idxtra.png",ID Xtra
 udp://@233.49.170.235:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/360podmsk.png" aspect-ratio="16:9" tvg-id="300092" tvg-name="Подмосковье" tvg-logo="360podmsk.png",360 Подмосковье
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/360podmsk.png" aspect-ratio="16:9" tvg-id="300092" tvg-name="Подмосковье" tvg-logo="360podmsk.png",360 Подмосковье
 udp://@233.49.170.237:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/shop24.png" tvg-logo="shop24.png",Shop24
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/shop24.png" tvg-logo="shop24.png",Shop24
 udp://@233.49.170.250:5000
 
-#EXTINF:0 logo="http://forstwoof.ru/tv_logos/domatv.png" tvg-id="1507" tvg-name="Домашний_магазин" tvg-logo="domatv.png",Домашний магазин
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/domatv.png" tvg-id="1507" tvg-name="Домашний_магазин" tvg-logo="domatv.png",Домашний магазин
 udp://@233.49.170.251:5000
