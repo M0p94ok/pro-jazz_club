@@ -13,11 +13,8 @@ udp://@233.49.170.10:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/doverie.png" tvg-id="300066" tvg-name="Москва_Доверие" tvg-logo="doverie.png",Москва Доверие
 udp://@233.49.170.13:5000
 
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tnt.png" tvg-id="101" tvg-name="ТНТ" tvg-logo="tnt.png",ТНТ
-udp://@233.49.170.37:5000
-
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rusextreme.png" tvg-id="540" tvg-name="Русский_Экстрим" tvg-logo="rusextreme.png",Русский Экстрим
-udp://@233.49.170.38:5000
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/eurosport.png" tvg-id="206" tvg-name="Eurosport" tvg-logo="eurosport.png",Eurosport
+udp://@233.49.170.16:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/5piter.png" tvg-id="255" tvg-name="Пятый_Канал" tvg-logo="5piter.png",Пятый Канал
 udp://@233.49.170.51:5000
@@ -51,6 +48,9 @@ udp://@233.49.170.97:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rentv.png" tvg-id="103" tvg-name="РЕН_ТВ" tvg-logo="rentv.png",РЕН-ТВ
 udp://@233.49.170.108:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tnt.png" tvg-id="101" tvg-name="ТНТ" tvg-logo="tnt.png",ТНТ
+udp://@233.49.170.113:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/mezzolivehd.png" dlna_extras="mpeg_ts_hd" tvg-id="100060" tvg-name="Mezzo_Live_HD" tvg-logo="mezzolivehd.png",Mezzo Live HD
 udp://@233.49.170.118:5000
