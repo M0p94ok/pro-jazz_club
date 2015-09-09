@@ -37,9 +37,6 @@ udp://@233.49.170.80:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rus1.png" tvg-id="2" tvg-name="Россия_1" tvg-logo="rus1.png",Россия 1
 udp://@233.49.170.84:5000
 
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/natgeo.png" tvg-id="284" tvg-name="National_Geographic" tvg-logo="natgeo.png",National Geographic
-udp://@233.49.170.87:5000
-
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rus24.png" aspect-ratio="16:9" tvg-id="676" tvg-name="Россия_24" tvg-logo="rus24.png",Россия 24
 udp://@233.49.170.95:5000
 
@@ -96,6 +93,9 @@ udp://@233.49.170.168:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/dsciencehd.png" dlna_extras="mpeg_ts_hd" tvg-id="224" tvg-name="Discovery_Science" tvg-logo="dsciencehd.png",Discovery Science HD
 udp://@233.49.170.174:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/lifenews.png" tvg-id="100078" tvg-name="Lifenews" tvg-logo="lifenews.png",Lifenews
+udp://@233.49.170.177:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tvsale.png" tvg-id="1382" tvg-name="TV_Sale" tvg-logo="tvsale.png",TV Sale
 udp://@233.49.170.185:5000
