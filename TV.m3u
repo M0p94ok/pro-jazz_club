@@ -88,9 +88,6 @@ udp://@233.49.170.166:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/belarus24.png" tvg-id="300003" tvg-name="Беларусь_24" tvg-logo="belarus24.png",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/lifenews.png" tvg-id="100078" tvg-name="Lifenews" tvg-logo="lifenews.png",Lifenews
-udp://@233.49.170.177:5000
-
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tvsale.png" tvg-id="744" tvg-name="Shopping_Live" tvg-logo="shoppinglive.png",Shopping Live
 udp://@233.49.170.185:5000
 
