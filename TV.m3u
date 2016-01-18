@@ -88,7 +88,7 @@ udp://@233.49.170.166:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/belarus24.png" tvg-id="300003" tvg-name="Беларусь_24" tvg-logo="belarus24.png",Беларусь 24
 udp://@233.49.170.168:5000
 
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/discoveryhd.png" dlna_extras="mpeg_ts_hd" tvg-id="226" tvg-name="Discovery_Channel" tvg-logo=discoveryhd.png",Discovery HD
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/discoveryhd.png" dlna_extras="mpeg_ts_hd" tvg-id="226" tvg-name="Discovery_Channel" tvg-logo="discoveryhd.png",Discovery HD
 udp://@233.49.170.173:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/dsciencehd.png" dlna_extras="mpeg_ts_hd" tvg-id="224" tvg-name="Discovery_Science" tvg-logo="dsciencehd.png",Discovery Science HD
