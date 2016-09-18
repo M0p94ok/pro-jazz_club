@@ -61,7 +61,7 @@ udp://@233.49.170.138:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tnv.png" tvg-id="563" tvg-name="Татарстан_-_Новый_Век" tvg-logo="tnv.png",Татарстан — Новый Век
 udp://@233.49.170.139:5000
 
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rushd.png" dlna_extras="mpeg_ts_hd" tvg-id="300124" tvg-name="Россия_HD" tvg-logo="rushd.png",Россия HD
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rushd.png" dlna_extras="mpeg_ts_hd" tvg-id="300124" tvg-name="Россия_HD" tvg-logo="rushd.png",Россия 1 HD
 udp://@233.49.170.142:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rt.png" tvg-id="100036" dlna_extras="mpeg_ts_hd" tvg-name="Russia_Today" tvg-logo="rt.png",Russia Today HD
