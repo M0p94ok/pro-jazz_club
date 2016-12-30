@@ -19,11 +19,11 @@ udp://@233.49.170.51:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/karousel.png" tvg-id="300007" tvg-name="Карусель" tvg-logo="karousel.png",Карусель
 udp://@233.49.170.68:5000
 
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/futbol.png" tvg-id="686" tvg-name="Футбол" tvg-logo="futbol.png",Футбол
+udp://@233.49.170.69:5000
+
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/ntv.png" tvg-id="4" tvg-name="НТВ" tvg-logo="ntv.png",НТВ
 udp://@233.49.170.71:5000
-
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/nst.png" tvg-id="300033" tvg-name="Настоящее_Страшное_ТВ" tvg-logo="nst.png",Настоящее страшное ТВ
-udp://@233.49.170.75:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/matchtv.png" tvg-id="235" tvg-name="Россия_2_(Спорт)" tvg-logo="matchtv.png",Матч ТВ
 udp://@233.49.170.79:5000
@@ -42,12 +42,6 @@ udp://@233.49.170.95:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tvc.png" tvg-id="3" tvg-name="ТВЦ" tvg-logo="tvc.png",ТВ Центр
 udp://@233.49.170.97:5000
-
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/retro.png" tvg-id="329" tvg-name="Ретро_ТВ" tvg-logo="retro.png",Ретро ТВ
-udp://@233.49.170.116:5000
-
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/nickjr.png" tvg-id="1603" tvg-name="Nick_Jr" tvg-logo="nickjr.png",Nick Jr.
-udp://@233.49.170.135:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/spas.png" tvg-id="222" tvg-name="Спас_ТВ" tvg-logo="spas.png",Спас
 udp://@233.49.170.138:5000
@@ -85,6 +79,15 @@ udp://@233.49.170.185:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/topshop.png" tvg-id="1096" tvg-name="Top_Shop_TV" tvg-logo="topshop.png",Top Shop TV
 udp://@233.49.170.213:5000
 
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tlumhd.png" dlna_extras="mpeg_ts_hd" tvg-id="300138" tvg-name="Тлум_HD" tvg-logo="tlumhd.png",Тлум HD
+udp://@233.49.170.228:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/malysh.png" tvg-logo="malysh.png",Малыш
+udp://@233.49.170.229:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/shopshow.png" tvg-logo="shopshow.png",Shop&Show
+udp://@233.49.170.234:5000
+
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/360podmsk.png" aspect-ratio="16:9" tvg-id="300092" tvg-name="Подмосковье" tvg-logo="360podmsk.png",360 Подмосковье
 udp://@233.49.170.237:5000
 
@@ -97,5 +100,5 @@ udp://@233.49.170.248:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/shop24.png" tvg-id="1574" tvg-name="Shop24" tvg-logo="shop24.png",Shop24
 udp://@233.49.170.251:5000
 
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/u.png" tvg-id="108" tvg-name="Ю" tvg-logo="u.png",Ю
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/domashniy.png" tvg-id="102" tvg-name="Домашний" tvg-logo="domashniy.png",Домашний
 udp://@233.49.170.255:5000
