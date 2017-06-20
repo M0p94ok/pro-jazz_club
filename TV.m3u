@@ -19,8 +19,14 @@ udp://@233.49.170.19:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tnt.png" tvg-id="101" tvg-name="ТНТ" tvg-logo="tnt.png",ТНТ
 udp://@233.49.170.37:5000
 
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rbc.png" tvg-id="326" tvg-name="РБК" tvg-logo="rbc.png",РБК
+udp://@233.49.170.49:5000
+
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/5piter.png" tvg-id="255" tvg-name="Пятый_Канал" tvg-logo="5piter.png",Пятый Канал
 udp://@233.49.170.51:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tlc.png" tvg-id="100022" tvg-name="TLC" tvg-logo="tlc.png",TLC
+udp://@233.49.170.65:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/karousel.png" tvg-id="300007" tvg-name="Карусель" tvg-logo="karousel.png",Карусель
 udp://@233.49.170.68:5000
@@ -85,6 +91,9 @@ udp://@233.49.170.166:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/belarus24.png" tvg-id="300003" tvg-name="Беларусь_24" tvg-logo="belarus24.png",Беларусь 24
 udp://@233.49.170.168:5000
 
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tlchd.png" dlna_extras="mpeg_ts_hd" tvg-id="300131" tvg-name="TLC_HD" tvg-logo="tlchd.png",TLC HD
+udp://@233.49.170.176:5000
+
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/stslove.png" tvg-id="1800" tvg-name="СТС_Love" tvg-logo="stslove.png",СТС Love
 udp://@233.49.170.181:5000
 
@@ -93,6 +102,9 @@ udp://@233.49.170.185:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/che.png" tvg-id="2068" tvg-name="Че" tvg-logo="che.png",Че
 udp://@233.49.170.188:5000
+
+#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tiji.png" tvg-id="100054" tvg-name="Tiji" tvg-logo="tiji.png",Tiji
+udp://@233.49.170.212:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/topshop.png" tvg-id="1096" tvg-name="Top_Shop_TV" tvg-logo="topshop.png",Top Shop TV
 udp://@233.49.170.213:5000
