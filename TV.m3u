@@ -25,9 +25,6 @@ udp://@233.49.170.49:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/5piter.png" tvg-id="255" tvg-name="Пятый_Канал" tvg-logo="5piter.png",Пятый Канал
 udp://@233.49.170.51:5000
 
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tlc.png" tvg-id="100022" tvg-name="TLC" tvg-logo="tlc.png",TLC
-udp://@233.49.170.65:5000
-
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/karousel.png" tvg-id="300007" tvg-name="Карусель" tvg-logo="karousel.png",Карусель
 udp://@233.49.170.68:5000
 
@@ -55,9 +52,6 @@ udp://@233.49.170.95:5000
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tvc.png" tvg-id="3" tvg-name="ТВЦ" tvg-logo="tvc.png",ТВ Центр
 udp://@233.49.170.97:5000
 
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/rentv.png" tvg-id="103" tvg-name="РЕН_ТВ" tvg-logo="rentv.png",РЕН ТВ
-udp://@233.49.170.108:5000
-
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/spas.png" tvg-id="222" tvg-name="Спас_ТВ" tvg-logo="spas.png",Спас
 udp://@233.49.170.138:5000
 
@@ -75,9 +69,6 @@ udp://@233.49.170.146:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/1tvhd.png" dlna_extras="mpeg_ts_hd" tvg-id="300125" tvg-name="Первый_HD" tvg-logo="1tvhd.png",Первый канал HD
 udp://@233.49.170.147:5000
-
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/sts.png" tvg-id="104" tvg-name="СТС" tvg-logo="sts.png",СТС
-udp://@233.49.170.149:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/otr.png" tvg-id="1000" tvg-name="ОТР" tvg-logo="otr.png",ОТР
 udp://@233.49.170.152:5000
@@ -99,9 +90,6 @@ udp://@233.49.170.181:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tvsale.png" tvg-id="744" tvg-name="Shopping_Live" tvg-logo="shoppinglive.png",Shopping Live
 udp://@233.49.170.185:5000
-
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/che.png" tvg-id="2068" tvg-name="Че" tvg-logo="che.png",Че
-udp://@233.49.170.188:5000
 
 #EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/tiji.png" tvg-id="100054" tvg-name="Tiji" tvg-logo="tiji.png",Tiji
 udp://@233.49.170.212:5000
