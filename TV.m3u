@@ -1,10 +1,14 @@
 @@ -0,0 +1,420 @@
 #EXTM3U
+
+#EXTINF:0,Mezzo Live HD
+#EXTVLCOPT:network-caching=1000
+http://185.74.220.67/545_1/8000k_stream.m3u8
+
 #EXTINF:0,Первый HD
 #EXTVLCOPT:network-caching=1000
 http://195.62.78.12:8181/play/a00k/index.m3u8
-#EXTINF:0 logo="http://beaver.lan.forstwoof.ru/tv_logos/1tv.png" tvg-id="1" tvg-name="Первый_канал" tvg-logo="1tv.png",Первый канал
-udp://@233.49.170.10:5000
+
 #EXTINF:0,NewsOne HD
 #EXTGRP:HD
 http://77.120.104.64/hls/newsone-hd/stream.m3u8
