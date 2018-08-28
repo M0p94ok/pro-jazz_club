@@ -1,6 +1,8 @@
 @@ -0,0 +1,420 @@
 #EXTM3U
 
+#EXTINF:545,Mezzo Live HD
+http://1ttvauth.top/s/545/1/auto/NUFLV1BEa0JoVnNkN2NMY2cxZHpCekEzT0JMclNSR09aTTcwc0xQY0g1Z1FtMkYwSjJITFBKSnV6S244elE0M0x2S25wcWZRSG1jaXFtUjdKREJSaHVPZ3BieGIwaFRCVFlPdFMxT1VXNUFWbEhheA/0/playlist.m3u8
 #EXTINF:-1,ПЕРВЫЙ +4
 http://178.212.183.227:8080/udp/239.195.1.32:1234
 #EXTINF:-1,ПЕРВЫЙ КАНАЛ
