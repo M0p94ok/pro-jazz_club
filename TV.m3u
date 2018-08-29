@@ -9,6 +9,7 @@ http://109.87.123.109:6878/playlist/nW7j3NH.m3u?category=tv
 http://10.116.97.132:6878/playlist/nW7j3NH.m3u?category=tv
 #EXTINF:-1,TV Local
 http://127.0.0.1:6878/playlist/nW7j3NH.m3u?category=tv
+#EXTINF:-1,Movie
 http://109.87.123.109:6878/playlist/nW7j3NH.m3u?category=movies
 
 #EXTINF:-1,ПЕРВЫЙ +4
