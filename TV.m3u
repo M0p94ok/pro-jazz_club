@@ -3,7 +3,7 @@
 #EXTINF:545 group-title="Музыка" tvg-id="mezzo-hd" tvg-name="Mezzo Live HD" tvg-logo="http://1ttv.org/uploads/lGOtRiUoGyJUMCtAtUwevBerpQORD4.png", Mezzo Live HD
 #EXTGRP:Музыка
 http://1ttvauth.top/s/545/1/auto/N0FMN1RSekhobHZrYXBKdEdxaEV1eEY4L3NZT3orbU5Lc2dDNitoMVN4NU9iS1A5Y0NFVmVoU21UbXlGanRnVGR4dXVDREhWUk42UzRHSFRiWUVIRVQ2SDVhOVl0VXpPMll1ZlNzcmpOell3dUxVSw/0/playlist.m3u8
-#EXTINF:0, tvg-id="newsone-ua" tvg-name="NewsOne HD" 
+#EXTINF:0,NewsOne HD tvg-id="newsone-ua" tvg-name="NewsOne HD" 
 http://77.120.104.64/hls/newsone-hd/stream.m3u8
 #EXTINF:0,КиноЗаказ 1
 https://hls.goodgame.ru/hls/114023.m3u8
