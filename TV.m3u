@@ -24,9 +24,6 @@ http://109.248.236.41:4433/udp/238.1.1.98:1234
 #EXTINF:0,Nat Geo Wild HD 
 http://195.88.16.15/natgeowildhd/index.m3u8
 
-#EXTINF:0,TLC HD
-#EXTVLCOPT:network-caching=1000
-http://195.230.115.18:65080/play/a450/index.m3u8
 #EXTINF:0,Viasat Nature History HD
 #EXTVLCOPT:network-caching=1000
 http://193.93.236.121:9991/play/Viasat_Nature_History_HD/index.m3u8
