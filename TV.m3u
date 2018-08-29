@@ -2,6 +2,7 @@
 
 #EXTINF:545,Mezzo Live HD
 http://1ttvauth.top/s/545/1/auto/NUFLV1BEa0JoVnNkN2NMY2cxZHpCekEzT0JMclNSR09aTTcwc0xQY0g1Z1FtMkYwSjJITFBKSnV6S244elE0M0x2S25wcWZRSG1jaXFtUjdKREJSaHVPZ3BieGIwaFRCVFlPdFMxT1VXNUFWbEhheA/0/playlist.m3u8
+
 #EXTINF:-1,ПЕРВЫЙ +4
 http://178.212.183.227:8080/udp/239.195.1.32:1234
 #EXTINF:-1,ПЕРВЫЙ КАНАЛ
@@ -28,9 +29,7 @@ http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
 http://109.197.192.178:8080/rutv/mpegts
 #EXTINF:-1,Ru TV
 http://89.223.46.189:8080/ru-tv/playlist.m3u8
-
 #EXTINF:0,NewsOne HD
-#EXTGRP:HD
 http://77.120.104.64/hls/newsone-hd/stream.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTVLCOPT:network-caching=1000
