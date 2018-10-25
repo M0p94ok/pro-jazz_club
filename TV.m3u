@@ -1135,22 +1135,12 @@ http://phone.pik-tv.com/live/piktv3pik3tv/playlist.m3u8
 http://178.212.183.227:8080/udp/239.195.32.32:1234
 #EXTINF:-1,ПЯТЫЙ КАНАЛ +4
 http://178.212.183.227:8080/udp/239.195.1.34:1234
-#EXTINF:-1,Первый
-http://193.203.60.1:8080/perviy/index.m3u8
-#EXTINF:-1,Первый
-http://109.197.192.178:8080/ort/mpegts
-#EXTINF:-1,Первый
-http://92.241.8.34:8080/udp/233.0.41.102:20000
-#EXTINF:-1,Первый
-http://109.167.141.198:5555/udp/233.99.64.1:1234
-#EXTINF:-1,Первый (Казахстан)
-http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1,Первый HD
-http://193.203.60.1:8080/perviyhd/index.m3u8
-#EXTINF:-1,Первый HD
-http://109.197.192.178:8080/1hd/mpegts
-#EXTINF:-1,Первый HD
-http://91.143.36.164:8080/orthd/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1,Первый Метео
 http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
 #EXTINF:-1,Первый деловой
